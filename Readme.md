@@ -125,6 +125,15 @@ They are operators that takes only one operand.
 
    ![Variables diagram](./assets/var-let-const.png)
 
+## Expressions and Statements
+
+### Expressions
+
+Expressions are units of code that can be evaluated and resolve to a value. Expressions in JS can be divided in [different categories](https://flaviocopes.com/javascript-expressions).
+
+### Statements 
+
+Statements can contain one or more different expressions, and are executed by the engine to perform an operation.  There are different [types of Statements](https://flaviocopes.com/javascript-statements/).
 
 ## Control Flow
 To be added
