@@ -12,6 +12,17 @@ Few talking points on the basics of modern javascript.
  - ECMAScript : A standardisation of JS to ensure uniform behaviour of webpages on different browser.
  - ES6 (ECMAScript 2015) : This version introduced lot of modern features to the JavaScript
  - Latest version is ES12
+
+ Modern day JavaScript has uses beyond Web Pages and web browsers. Now JavaScript is used to
+ - Build Web Servers and Server related applications
+ - Web Applications
+ - Desktop Applications
+ - Mobile Applications
+ - Game development
+ - IOT devices
+
+ [JavaScript even powers the interface for SpaceX Space Shuttles](https://www.infoq.com/news/2020/06/javascript-spacex-dragon/)
+
   
 ## Values
 
