@@ -113,3 +113,10 @@ They are operators that takes only one operand.
 -   While  `var`  and  `let`  can be declared without being initialized,  `const`  must be initialized during declaration.
 
    ![Variables diagram](./assets/var-let-const.png)
+
+
+## Control Flow
+To be added
+
+## Functions
+To be added
