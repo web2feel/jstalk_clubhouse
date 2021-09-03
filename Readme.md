@@ -42,7 +42,7 @@ They are operators are used to **assign** values to variables.
     -=	
     /=	
     %=
-    ... and more
+   
 
 **2. Arithmetic Operators**
 
