@@ -1,7 +1,7 @@
 # Modern JavaScript
 Few talking points on the basics of modern javascript.
 
-## Introduction to JS
+## 1. Introduction to JS
 
 
  - JavaScript was introduced in 1995 as a way to make webpages
@@ -14,7 +14,7 @@ Few talking points on the basics of modern javascript.
  - ES6 (ECMAScript 2015) : This version introduced lot of modern features to the JavaScript
  - Latest version is ES12
   
-## Values
+## 2. Values
 
  - In JavaScript, data is handled in the form of Values.
  - JS has different types of values or **data types**
@@ -32,7 +32,7 @@ Few talking points on the basics of modern javascript.
 	 - Objects
 	 - Functions 
 
-## Operators
+## 3. Operators
 
 **1. Assignment Operators**
 
@@ -83,10 +83,14 @@ These operators perform logical operations and return a boolean value.
 
 The `+` is used to concatenate or join two or more string values
 
+**6. Ternary Operator**
+
+**7. Bitwise Operator**
+
+**8. Unary Operator**
 
 
-
-## Variables
+## 4. Variables
 
 Variables are **pointers** to **values** in JS program.
   
